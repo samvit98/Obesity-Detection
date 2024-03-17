@@ -19,7 +19,7 @@ The primary objective of this project is to identify individuals at high risk of
 - Tableau for data analysis
 
 ## Data Visualization
-
+![Alt Text](https://github.com/samvit98/Obesity-Detection/blob/main/Obesity%20Viz.png)
 
 ## Outcome
 ### Business Outcome
